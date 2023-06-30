@@ -1,17 +1,35 @@
-/*
-  Cache-Control: public, max-age=5184000
-
 /*.js
   Cache-Control: public, max-age=7776000
 
 /*.css
   Cache-Control: public, max-age=7776000
 
+/*.scss
+  Cache-Control: public, max-age=7776000
+
+/*.less
+  Cache-Control: public, max-age=7776000
+
+/*.svg
+  Cache-Control: public, max-age=7776000
+
+/*.cur
+  Cache-Control: public, max-age=7776000
+
+/*.ttf
+  Cache-Control: public, max-age=7776000
+
+/*.woff2
+  Cache-Control: public, max-age=7776000
+
+/*.webp
+  Cache-Control: public, max-age=5184000
+
 /*.png
   Cache-Control: public, max-age=5184000
 
-/*.svg
+/*.gif
   Cache-Control: public, max-age=5184000
 
-/*.gif
+/*.jpeg
   Cache-Control: public, max-age=5184000

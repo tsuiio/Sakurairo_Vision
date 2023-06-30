@@ -1,2 +1,17 @@
 /*
-  cache-control: max-age=604800
+  Cache-Control: public, max-age=5184000
+
+/*.js
+  Cache-Control: public, max-age=7776000
+
+/*.css
+  Cache-Control: public, max-age=7776000
+
+/*.png
+  Cache-Control: public, max-age=5184000
+
+/*.svg
+  Cache-Control: public, max-age=5184000
+
+/*.gif
+  Cache-Control: public, max-age=5184000
